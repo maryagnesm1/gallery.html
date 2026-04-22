@@ -1,0 +1,1 @@
+Mary Mazujian Milestone 3 This milestone is the Gallery page. This consists of works from the of the Impressionists including Claude Monet, Edgar Degas and August Renoir. Each image was taken from The National Gallery of Art Commons page which includes free images of artworks from the gallery.
