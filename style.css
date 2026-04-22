@@ -17,14 +17,23 @@
   text-align: left;
 }
 
+/*ChatGPT help with missing hero image in Github*/
+.hero-image {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
 /*ChatGPT adjust hero to fit and make more responsive*/
 
 .hero-centered {
   background-image:
     linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
-    url("../images/odalisque.jpg");
-
-    /*ChatGPT assistance in image sizing*/
+    url("images/odalisque.jpg");
+  
+/*ChatGPT assistance in image sizing*/
  background-size: contain;
 background-color: #222;
   background-position: center;
