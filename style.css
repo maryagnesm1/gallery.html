@@ -320,8 +320,7 @@ section {
 }
 
 /*ChatGPT help center footer*/
-  footer { text-align: center; }
-
+  /*deleted original plain footer that was off center added code from Midterm page*/
 
 /*added footer color edit since original assignment turned in to match other pages adding to GitHub*/
 footer {
