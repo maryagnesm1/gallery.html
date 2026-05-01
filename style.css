@@ -321,3 +321,13 @@ section {
 
 /*ChatGPT help center footer*/
   footer { text-align: center; }
+
+
+/*added footer color edit since original assignment turned in to match other pages adding to GitHub*/
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #d9c7bb;
+  color: black;
+  margin-top: 60px;
+}
